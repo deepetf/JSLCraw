@@ -1,0 +1,32 @@
+
+# Jupyter notebook
+notebook
+#pandas 1.3.5 和 sqlalchemy==1.4.46 匹配
+pandas==1.3.5
+numpy
+akshare
+xlsxwriter
+deep_getstockinfo
+wxpusher
+chinesecalendar
+openpyxl
+sqlalchemy==1.4.46
+selenium
+#sql python connector, 不要装C的connector mysql
+mysql-connector-python
+pytesseract
+opencv-python
+pywinauto
+falcon
+plotly
+matplotlib
+beautifulsoup4
+baostock
+mariadb
+pyarrow
+quantstats==0.0.59
+scipy -i https://pypi.tuna.tsinghua.edu.cn/simple
+pycryptodomex
+ttkthemes -i https://pypi.tuna.tsinghua.edu.cn/simple
+quantstats
+tushare
